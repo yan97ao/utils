@@ -1,8 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: utf-8 -*-
-import sys,os
+import sys
 import subprocess
-import time
 
 PATH_TO_ADB = "adb"
 
